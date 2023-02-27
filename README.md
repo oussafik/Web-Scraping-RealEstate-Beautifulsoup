@@ -9,6 +9,8 @@ To run the web scraper, you will need to have Python 3 installed on your machine
 - BeautifulSoup
 - requests
 - mysql-connector-python (if using the realestate_db.py file)
+
+
 You can install these libraries by running the following command in your terminal:
  'pip install beautifulsoup4 requests mysql-connector-python'
  
