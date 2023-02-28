@@ -56,4 +56,4 @@ If you would like to contribute to this project, feel free to submit a pull requ
 
 ## Credits
 
-This project was created by [insert your name]. The code is based on examples from the Beautiful Soup documentation and the requests library documentation.
+This project was created by Oussama Fikri. The code is based on examples from the Beautiful Soup documentation and the requests library documentation.
